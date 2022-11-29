@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_ad3fcdee-9eb0-486c-a704-5e3995e9d300",
+      "org_id": "orga_36652de4-73cd-4058-8f16-7ec47d8d2816",
+      "deploy_url": "https://github.com/croustibat/shopper-demo.git",
+      "name": "Shopper-demo",
+      "alias": "Shopper-demo"
+    }
+  ]
+}
